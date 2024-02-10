@@ -75625,7 +75625,7 @@ case 3:o=b
 p.e=o
 p.d=A.YU("dart",o)
 s=4
-return A.U($.iT().xE("code/code_example.dart"),$async$ql)
+return A.U($.iT().xE("assets/code/code_example.dart"),$async$ql)
 case 4:q=p.f=b
 s=1
 break
@@ -75756,7 +75756,7 @@ p.c.b=A.YU("dart",o.aE())
 o=p.d
 n=o
 s=4
-return A.U($.iT().xE("code/code_exampleGet.dart"),$async$$0)
+return A.U($.iT().xE("assets/code/code_exampleGet.dart"),$async$$0)
 case 4:n.b=b
 q=o.aE()
 s=1
